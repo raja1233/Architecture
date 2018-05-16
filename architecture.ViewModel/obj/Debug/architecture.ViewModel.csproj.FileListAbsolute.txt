@@ -1,0 +1,18 @@
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.ViewModel\bin\Debug\architecture.ViewModel.dll.config
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.ViewModel\bin\Debug\architecture.ViewModel.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.ViewModel\bin\Debug\architecture.ViewModel.pdb
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.ViewModel\bin\Debug\EntityFramework.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.ViewModel\bin\Debug\EntityFramework.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.ViewModel\obj\Debug\architecture.ViewModel.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.ViewModel\obj\Debug\architecture.ViewModel.pdb
+D:\Raja\architecture\architecture.ViewModel\bin\Debug\architecture.ViewModel.dll.config
+D:\Raja\architecture\architecture.ViewModel\bin\Debug\architecture.ViewModel.dll
+D:\Raja\architecture\architecture.ViewModel\bin\Debug\architecture.ViewModel.pdb
+D:\Raja\architecture\architecture.ViewModel\bin\Debug\EntityFramework.dll
+D:\Raja\architecture\architecture.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Raja\architecture\architecture.ViewModel\bin\Debug\EntityFramework.xml
+D:\Raja\architecture\architecture.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Raja\architecture\architecture.ViewModel\obj\Debug\architecture.ViewModel.dll
+D:\Raja\architecture\architecture.ViewModel\obj\Debug\architecture.ViewModel.pdb

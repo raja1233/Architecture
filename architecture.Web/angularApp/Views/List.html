@@ -1,0 +1,37 @@
+﻿
+    
+        <div class="jumbotron" >
+            <div >
+                <form class="contact_form" name="myForm">
+                    <!--<div class="form-group">
+                        <label for="name">Your name:</label><br />
+                        <input class="form-control" required name="name" type="text"/>
+                        <label class="validationErrorText" ng-show="myForm.name.$error.required"> Name is  Required</label>
+                      
+                      </div>-->
+                    <div class="form-group"> 
+                        <input required type="text" class="form-control" name="name1" ng-model="obj.Name"
+                               ng-class="{ 'has-error': myForm.name1.$touched && myForm.name1.$invalid }" />
+                        <div class="my-messages" ng-messages="myForm.name1.$error"
+                             ng-if="myForm.name1.$touched && myForm.name1.$invalid" style="color:red" role="alert">
+                            <div class="my-messages" ng-message="required">First Name required</div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="name">Your Age:</label><br />
+                        <input  class="form-control" name="Age"  ng-pattern="/^[0-9]*$/" ng-model="obj.Age" type="text" required /><br />
+                        <span  ng-show="myForm.Age.$error.pattern">Only Numbers are allowed</span>
+                    </div>
+                    <div class="form-group">
+                        <label for="name">Your Dob:</label><br />
+                       
+                        <input class="form-control" name="Age" ng-model="obj.dateOfBirth" type="text" required /><br />
+                    </div>
+                    <input id="submit_button" type="submit" ng-disabled="myForm.$invalid" ng-click="submit(obj)" class="btn btn-success" value="Submit" />
+                    
+                </form>
+               
+            </div>
+    </div>
+
+

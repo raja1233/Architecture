@@ -1,0 +1,150 @@
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\architecture.Web.dll.config
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\architecture.Web.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\architecture.Web.pdb
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Antlr3.Runtime.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\AutoMapper.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\EntityFramework.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\EntityFramework.SqlServer.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.Google.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Newtonsoft.Json.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Owin.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\SimpleInjector.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Net.Http.Formatting.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.Helpers.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.Http.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.Http.WebHost.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.Mvc.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.Optimization.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.Razor.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.WebPages.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\WebGrease.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\AutoMapper.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\EntityFramework.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\EntityFramework.SqlServer.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\SimpleInjector.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.Helpers.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.Mvc.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.Optimization.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.Razor.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.WebPages.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Newtonsoft.Json.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Antlr3.Runtime.pdb
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Net.Http.Formatting.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.Http.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\System.Web.Http.WebHost.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.Google.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\obj\Debug\architecture.Web.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\obj\Debug\architecture.Web.pdb
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Web\obj\Debug\architecture.Web.csprojResolveAssemblyReference.cache
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Web\bin\architecture.Data.dll
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Web\bin\architecture.Entity.dll
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Web\bin\architecture.Data.pdb
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Web\bin\architecture.Entity.pdb
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Web\bin\architecture.Service.dll
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Web\bin\architecture.ViewModel.dll
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Web\bin\architecture.Service.pdb
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Web\bin\architecture.ViewModel.pdb
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Web\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Web\bin\SimpleInjector.Integration.WebApi.xml
+D:\Raja\architecture\architecture.Web\bin\architecture.Web.dll.config
+D:\Raja\architecture\architecture.Web\bin\architecture.Web.dll
+D:\Raja\architecture\architecture.Web\bin\architecture.Web.pdb
+D:\Raja\architecture\architecture.Web\bin\Antlr3.Runtime.dll
+D:\Raja\architecture\architecture.Web\bin\architecture.Data.dll
+D:\Raja\architecture\architecture.Web\bin\architecture.Entity.dll
+D:\Raja\architecture\architecture.Web\bin\architecture.Service.dll
+D:\Raja\architecture\architecture.Web\bin\architecture.ViewModel.dll
+D:\Raja\architecture\architecture.Web\bin\AutoMapper.dll
+D:\Raja\architecture\architecture.Web\bin\EntityFramework.dll
+D:\Raja\architecture\architecture.Web\bin\EntityFramework.SqlServer.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Raja\architecture\architecture.Web\bin\Newtonsoft.Json.dll
+D:\Raja\architecture\architecture.Web\bin\Owin.dll
+D:\Raja\architecture\architecture.Web\bin\SimpleInjector.dll
+D:\Raja\architecture\architecture.Web\bin\SimpleInjector.Integration.WebApi.dll
+D:\Raja\architecture\architecture.Web\bin\System.Net.Http.Formatting.dll
+D:\Raja\architecture\architecture.Web\bin\System.Web.Helpers.dll
+D:\Raja\architecture\architecture.Web\bin\System.Web.Http.dll
+D:\Raja\architecture\architecture.Web\bin\System.Web.Http.WebHost.dll
+D:\Raja\architecture\architecture.Web\bin\System.Web.Mvc.dll
+D:\Raja\architecture\architecture.Web\bin\System.Web.Optimization.dll
+D:\Raja\architecture\architecture.Web\bin\System.Web.Razor.dll
+D:\Raja\architecture\architecture.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Raja\architecture\architecture.Web\bin\System.Web.WebPages.dll
+D:\Raja\architecture\architecture.Web\bin\System.Web.WebPages.Razor.dll
+D:\Raja\architecture\architecture.Web\bin\WebGrease.dll
+D:\Raja\architecture\architecture.Web\bin\architecture.Data.pdb
+D:\Raja\architecture\architecture.Web\bin\architecture.Entity.pdb
+D:\Raja\architecture\architecture.Web\bin\architecture.Service.pdb
+D:\Raja\architecture\architecture.Web\bin\architecture.ViewModel.pdb
+D:\Raja\architecture\architecture.Web\bin\AutoMapper.xml
+D:\Raja\architecture\architecture.Web\bin\EntityFramework.xml
+D:\Raja\architecture\architecture.Web\bin\EntityFramework.SqlServer.xml
+D:\Raja\architecture\architecture.Web\bin\SimpleInjector.xml
+D:\Raja\architecture\architecture.Web\bin\SimpleInjector.Integration.WebApi.xml
+D:\Raja\architecture\architecture.Web\bin\System.Web.Helpers.xml
+D:\Raja\architecture\architecture.Web\bin\System.Web.Mvc.xml
+D:\Raja\architecture\architecture.Web\bin\System.Web.Optimization.xml
+D:\Raja\architecture\architecture.Web\bin\System.Web.Razor.xml
+D:\Raja\architecture\architecture.Web\bin\System.Web.WebPages.xml
+D:\Raja\architecture\architecture.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Raja\architecture\architecture.Web\bin\System.Web.WebPages.Razor.xml
+D:\Raja\architecture\architecture.Web\bin\Newtonsoft.Json.xml
+D:\Raja\architecture\architecture.Web\bin\Antlr3.Runtime.pdb
+D:\Raja\architecture\architecture.Web\bin\System.Net.Http.Formatting.xml
+D:\Raja\architecture\architecture.Web\bin\System.Web.Http.xml
+D:\Raja\architecture\architecture.Web\bin\System.Web.Http.WebHost.xml
+D:\Raja\architecture\architecture.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Raja\architecture\architecture.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Raja\architecture\architecture.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.xml
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.xml
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Raja\architecture\architecture.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Raja\architecture\architecture.Web\obj\Debug\architecture.Web.csprojResolveAssemblyReference.cache
+D:\Raja\architecture\architecture.Web\obj\Debug\architecture.Web.dll
+D:\Raja\architecture\architecture.Web\obj\Debug\architecture.Web.pdb

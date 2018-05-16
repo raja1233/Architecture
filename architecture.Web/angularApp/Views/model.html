@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <div class="container">
+        <h2>Small Modal</h2>
+        <!-- Trigger the modal with a button -->
+        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Small Modal</button>
+
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <input type="radio" name="radio-choice" id="Language-arabic" data-language="arabic" value="Arabic" />
+                        <label for="radio-choice-1">Arabic</label>
+
+                        <input type="radio" name="radio-choice" id="Language-english" data-language="english" value="English" />
+                        <label for="radio-choice-4">English</label>
+
+                        <input type="radio" name="radio-choice" id="Language-hindi" data-language="hindi" value="Hindi" />
+                        <label for="radio-choice-4">Hindi</label>
+
+                        <div><label for="declarationNumber" style="margin-left:30px" id="login-label"><b>Login</b></label></div>
+                    </div>
+                    <div class="modal-body">
+                       Name<input type="text" class="form-control" name="Name"/>
+                       pwd<input type="text" class="form-control" name="Password" />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

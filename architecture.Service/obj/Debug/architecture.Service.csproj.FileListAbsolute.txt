@@ -1,0 +1,30 @@
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Service\bin\Debug\architecture.Service.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Service\bin\Debug\architecture.Service.pdb
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Service\bin\Debug\AutoMapper.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Service\bin\Debug\AutoMapper.xml
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Service\obj\Debug\architecture.Service.dll
+c:\users\rajababu prasad\documents\visual studio 2013\Projects\architecture\architecture.Service\obj\Debug\architecture.Service.pdb
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Service\obj\Debug\architecture.Service.csprojResolveAssemblyReference.cache
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Service\bin\Debug\architecture.ViewModel.dll
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Service\bin\Debug\architecture.ViewModel.pdb
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Service\bin\Debug\architecture.Data.dll
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Service\bin\Debug\architecture.Entity.dll
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Service\bin\Debug\EntityFramework.dll
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Service\bin\Debug\architecture.Data.pdb
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Service\bin\Debug\architecture.Entity.pdb
+C:\Users\Rajababu Prasad\Documents\Visual Studio 2013\Projects\architecture\architecture.Service\bin\Debug\EntityFramework.xml
+D:\Raja\architecture\architecture.Service\bin\Debug\architecture.Service.dll
+D:\Raja\architecture\architecture.Service\bin\Debug\architecture.Service.pdb
+D:\Raja\architecture\architecture.Service\bin\Debug\architecture.Data.dll
+D:\Raja\architecture\architecture.Service\bin\Debug\architecture.Entity.dll
+D:\Raja\architecture\architecture.Service\bin\Debug\architecture.ViewModel.dll
+D:\Raja\architecture\architecture.Service\bin\Debug\AutoMapper.dll
+D:\Raja\architecture\architecture.Service\bin\Debug\EntityFramework.dll
+D:\Raja\architecture\architecture.Service\bin\Debug\architecture.Data.pdb
+D:\Raja\architecture\architecture.Service\bin\Debug\architecture.Entity.pdb
+D:\Raja\architecture\architecture.Service\bin\Debug\architecture.ViewModel.pdb
+D:\Raja\architecture\architecture.Service\bin\Debug\AutoMapper.xml
+D:\Raja\architecture\architecture.Service\bin\Debug\EntityFramework.xml
+D:\Raja\architecture\architecture.Service\obj\Debug\architecture.Service.csprojResolveAssemblyReference.cache
+D:\Raja\architecture\architecture.Service\obj\Debug\architecture.Service.dll
+D:\Raja\architecture\architecture.Service\obj\Debug\architecture.Service.pdb
